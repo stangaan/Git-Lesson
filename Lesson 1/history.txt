@@ -1,0 +1,309 @@
+    1  ssh ec2-user@linux.teleran-edu.de
+    2  ec2-user@linux.teleran-edu.de
+    3  ec2-user@linux.teleran-edu.de
+    4   cd /opt/43_44_evening_b/stengauar
+    5  git config --user.name "stangaan"
+    6  git config --global.name"stangaan"
+    7  git config
+    8  ls -l
+    9  cd /e/Lessens/FE/Lesson/
+   10  cd /e/Lessens/FE/Lessons/
+   11  cd /e/Lessens/FE
+   12  git init
+   13  git config --global user.name "stangaan"
+   14  git config --global user.email schtengauer@gmail.com
+   15  git -list
+   16  git list
+   17  git cofig
+   18  git --convig
+   19  git --config
+   20  nano
+   21  history > /e/Новая папка/ hystory.txt
+   22  history > /e/Новая/р
+   23  history > /e/Новая
+   24  echo date > /e/Новая
+   25  echo "ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de" >> /e/Новая
+   26  cat /e/Новая
+   27  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   28  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   29  ec2-user@linux.telran-edu.de
+   30  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   31  schte@Laptop MINGW64 ~
+   32  $
+   33  schte@Laptop MINGW64 ~
+   34  $
+   35  ssh -i ~/.ssh/id_rsa ec2-user@linux.telran-edu.de
+   36  ec2-user@linux.telran-edu.de
+   37  git clone <https://github.com/stangaan/HTML>
+   38  git clone <https://github.com/stangaan>
+   39  git pull
+   40  git push
+   41  cd /e/Новая папка
+   42  cd /e
+   43  git clone <https://github.com/stangaan>
+   44  cd /e/Lessens/
+   45  git push
+   46  git list
+   47  git --help
+   48  git clone
+   49  cd /e/Lessens/FE
+   50  git push
+   51  git pull
+   52  git branch -a
+   53  git list
+   54  git log
+   55  $DIRSTEN
+   56  $DIRST
+   57  git checkout <FE>
+   58  git config --global user.name <stanaan>
+   59  git config --global user.name <stangaan>
+   60  ls -l
+   61  git remote
+   62  git remote add origin 
+   63  git remote add origin https://github.com/stangaan/HTML.git
+   64  cd /e/Lessens/FE
+   65  git remote add origin https://github.com/stangaan/HTML.git
+   66  git push -u origin main
+   67  curl -u USERNAME:TOKEN https://api.github.com/user
+   68  ls -l
+   69  touch directst.sh
+   70  chmod u+wrx directst.sh 
+   71  nano directst.sh 
+   72  ./directst.sh
+   73  nano directst.sh 
+   74  ./directst.sh
+   75  nano directst.sh 
+   76  ./directst.sh
+   77  cd .. ..
+   78  cd ....
+   79  cd ../..
+   80  ./directst.sh
+   81  bash./directst.sh
+   82  move /e/Lessons/FE/directst.sh /d/Steihauer/GITHAB
+   83  dh -l
+   84  dl -h
+   85  pwd
+   86  git -list
+   87  git list
+   88  git gonfig global --list
+   89  §DIRST
+   90  export (DIRST)
+   91  export NAME=DIRST
+   92  $DIRST
+   93  $NAME
+   94  NAME
+   95  export NAME=cd /e/Lessons
+   96  export NAME=cd /e/Lessens/FE
+   97  export NAME= cd /e/Lessens/FE
+   98  export NAME= DIRST
+   99  echo /e/Lessens/FE >DIRST
+  100  $DIRST
+  101  $NAME
+  102  cd /e/Lessens/FE/.git
+  103  ls /l
+  104  ls -l
+  105  teal -1
+  106  ssh-keygen
+  107  cd /c/Users/schte/.ssh
+  108  cat .ssh
+  109  git clone E:\Lessens\Neuer Ordner git@github.com:stangaan/Git-Lessons.git
+  110  git clone git@github.com:stangaan/Git-Lessons.git E:\Lessens\Neuer Ordner
+  111  cd E:\Lessens\Neuer Ordner
+  112  cd /e/Lessens/Neuer\ Ordner/
+  113  git clon
+  114  git clon git@github.com:stangaan/Git-Lessons.git
+  115  git@github.com:stangaan/Git-Lessons.git
+  116  git clone git@github.com:stangaan/Git-Lessons.git
+  117  git clone git@github.com:stangaan/Git-Lessons.git
+  118  ls  -a
+  119  git status
+  120  git log
+  121  \git clone
+  122  git remote
+  123  \git remote
+  124  cd.. ..
+  125  git clone git@github.com:stangaan/Git-Lessons.git
+  126  cd /e\Lessens\Java Pro\GIT\GITHAB1
+  127  cd \e\Lessens\Java Pro\GIT\GITHAB1
+  128  cd /e/Lessens/Java\ Pro/GIT/GITHAB1/
+  129  git clone git@github.com:stangaan/Git-Lessons.git
+  130  ls -a
+  131  cd Hausaufgaben/
+  132  ls -a
+  133  git clone git@github.com:stangaan/Git-Lessons.git
+  134  ssh -keygen
+  135  ssh-keygen
+  136  ssh-keygen
+  137  git clone git@github.com:stangaan/Git-Lessons.git
+  138  git clonegit@github.com:stangaan/Git-Lessons.git
+  139  git clone git@github.com:stangaan/Git-Lessons.git
+  140  ssh/keygen
+  141  ssh-keygen
+  142  git clone git@github.com:stangaan/Git-Lessons.git
+  143  ls -a
+  144  ssh-keygen
+  145  git remote -v
+  146   echo > song. txt
+  147  ls -l
+  148   echo > song.txt
+  149  ls -l
+  150  rm -f song
+  151  ls -l
+  152  rm song
+  153  cd /e/Lessens/Java Pro/GIT/GITHAB1/
+  154  cd /e/Lessens/Java Pro/GIT/GITHAB1
+  155  cd..
+  156  cd ..
+  157  cd ..
+  158  git clone git@github.com:stangaan/Git-Lessons.git
+  159  ls -l
+  160  git clone git@github.com:stangaan/Git-Lessons.git
+  161  cd /git-
+  162  cd /GITHAB1
+  163  /e/Lessens/Java\ Pro/GIT/GITHAB1/
+  164  ls -l
+  165  ls -l
+  166  /e/Lessens/Java Pro/GIT/GITHAB1/
+  167  cd /GITHAB1
+  168  cd GITHAB1
+  169  ls -l
+  170  nano history1.txt 
+  171  git status
+  172  git add song.txt
+  173  git add<song.txt>
+  174  git add<Hausaufgaben/song.txt>
+  175  git add <Hausaufgaben/song.txt>
+  176  git add \Hausaufgaben/song.txt
+  177  git status
+  178  git commit 
+  179  git status
+  180  ls -l
+  181  cd /e/Lessens/Java Pro/
+  182  cd /e/Lessens/Java pro
+  183  cd /e\Lessens\Java Pro\GIT\GITHAB1
+  184  cd /e/Lessens/Java Pro/GIT/GITHAB1
+  185  cd e/Lessens/Java Pro/GIT/GITHAB1
+  186  cd e/Lessens/Java\ Pro/GIT/GITHAB1
+  187  cd /e
+  188  cd /Lessons/
+  189  cd /e/Lessens/Java\ Pro/GIT/GITHAB1/
+  190  ls -l
+  191  git push history1.txtgit push history1.txt
+  192  git commit history1.txt git commit history1.txt 
+  193  git push history1.txt
+  194  git pulgit pul
+  195  git pullgit pull
+  196  ls -l
+  197  cd /e/Lessens/Java\ Pro/GIT/GITHAB1/Hausaufgaben/
+  198  ls -l
+  199  git push song.txt
+  200  ssh-keygen
+  201  cd .. ..
+  202  cd ../..
+  203  cd .. .. 
+  204  cd ....
+  205  ls -l
+  206  ssh-keygen
+  207  git status
+  208  cd /e/Lessens/Java\ Pro/GIT/GITHAB1/Hausaufgaben/
+  209  git status
+  210  git push ../history1.txt
+  211  git add ../history1.txt 
+  212  git status
+  213  git push ../history1.txt
+  214  git commit ../history1.txt 
+  215  git remote -v
+  216  git list
+  217  git
+  218  git status
+  219  ls -l
+  220  git push ../history1.txt
+  221  cd /e/Lessens/Java\ Pro/GIT/GITHAB1/Hausaufgaben/
+  222  git status
+  223  git commit -m "НОвые изменения"
+  224  git push 
+  225  git log
+  226  cd /e/Lessens/Java\ Pro/GIT/GITHAB1/Hausaufgaben/git init
+  227  cd /e/Lessens/Java\ Pro/GIT/GITHAB1/Hausaufgaben/
+  228  cd /e/
+  229  git init
+  230  git status
+  231  touch text.txt
+  232  git add text.txt 
+  233  git status
+  234  git commit -m
+  235  git commit -m "text"
+  236  git push text.txt
+  237  git remote -v
+  238  mkdi Git Test
+  239  mkdir Git Test
+  240  ls -l
+  241  cd /e/
+  242  mkdir Git
+  243  cd Git
+  244  git init
+  245  echo text.txt
+  246  ls -l
+  247  touch text.txt
+  248  ls
+  249  git status
+  250  git add
+  251  git add.
+  252  git add .
+  253  git status
+  254  git commit -m " new text"
+  255  git status
+  256  git log
+  257  git remote -v
+  258  git clone 
+  259  git clone 
+  260  git clone git@github.com:stangaan/Git-Lesson.git
+  261  cd /e/
+  262  ls 
+  263  cd /e/Git/
+  264  LS
+  265  LS
+  266  ls
+  267  get add .
+  268  get add.
+  269  ssh-keygen
+  270  cd \e\Lessens\Java Pro\GIT\GITHAB1
+  271  cd /e/Lessens/Java\ Pro/GIT/GITHAB1/
+  272  git klone git@github.com:stangaan/Git-Lesson.git
+  273  git clone git@github.com:stangaan/Git-Lesson.git
+  274  ls -l
+  275  cd Git-Lesson/
+  276  ls -l
+  277  touch text.txt
+  278  ls
+  279  nano text.txt 
+  280   git status
+  281  git add .
+  282  git status
+  283  git commit "File modifiziert"
+  284  git push
+  285  git status
+  286  git commit "File new" text.txt 
+  287  git status
+  288   git commit  -m " New File" text.txt 
+  289  git status
+  290  git push text.txt
+  291  git push
+  292  git status
+  293  git log
+  294  nano text.txt 
+  295  git status
+  296  git add .
+  297  git status
+  298  git commit -m "заливка на githab нашего файла" text.txt 
+  299  git status
+  300  git push
+  301  cat text.txt cat text.txt 
+  302   git pull
+  303  cat text.txt 
+  304  nano text.txt 
+  305  git status
+  306  git add .
+  307  git commit  -m "Все описано в этом файле" text.txt 
+  308  git push
+  309  history >history.txt
