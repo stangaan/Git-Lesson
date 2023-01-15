@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+1 Änderung
+2 Änderung
+=======
+>>>>>>> parent of 4c5ed9b (mytext.txt)
+3 Änderung
+4 Änderung
