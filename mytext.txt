@@ -1,12 +1,10 @@
-1 Чтобы вернуть фауй с модификации 
-git checkout <file>
-
-2 Чтобы вернуть с инекса
-git restore <file>
-
-3 Чтобы вернуть с комментария
-
-git reset HEAD
-
-
-
+<<<<<<< HEAD
+1 Änderung
+2 Änderung
+=======
+>>>>>>> parent of 4c5ed9b (mytext.txt)
+3 Änderung
+<<<<<<< HEAD
+4 Änderung
+=======
+>>>>>>> b1ed3af3d9dd64724d83ebafcf38334b659758a4
